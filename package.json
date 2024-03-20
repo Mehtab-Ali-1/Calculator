@@ -1,0 +1,19 @@
+{
+  "name": "m6786calculator",
+  "version": "1.0.2",
+  "description": "making simple calculator using typescript, node.js and inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehtab",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
